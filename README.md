@@ -20,3 +20,4 @@ Apply data visualization techniques to identify the patterns of the data.
 # CODE
 
 # OUPUT
+![Uploading image.png…]()

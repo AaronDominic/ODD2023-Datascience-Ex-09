@@ -20,4 +20,5 @@ Apply data visualization techniques to identify the patterns of the data.
 # CODE
 
 # OUPUT
-![Uploading image.png…]()
+![image](https://github.com/AaronDominic/ODD2023-Datascience-Ex-09/assets/143015231/c8e7493c-2bd8-4dd3-a391-460a5cecebf8)
+
